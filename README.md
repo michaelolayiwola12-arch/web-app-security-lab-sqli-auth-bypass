@@ -40,7 +40,7 @@ SQL Injection occurs when user input is directly inserted into a database query 
 
 ### Evidence
 
-![SQL Injection Result](screenshots/sql-injection.png)
+![SQL Injection Result](screenshots/sql-injection.jpg)
 
 ---
 
@@ -65,7 +65,7 @@ The login system allows repeated login attempts without restriction.
 
 ### Evidence
 
-![Brute Force Login](screenshots/bruteforce.png)
+![Brute Force Login](screenshots/bruteforce.jpg)
 
 ---
 
